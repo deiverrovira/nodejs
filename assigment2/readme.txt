@@ -1,0 +1,1 @@
+Uso de mongoose y mongoDb para crear una API RESTFUL que permitiera adicionar/Consultar/eliminar registros a una base de datos MongoDB utilizando el driver de omgon y mongoose
